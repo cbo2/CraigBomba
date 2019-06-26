@@ -62,3 +62,165 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   /*height: 100vh;*/
 }
 
+.fa.fa-star.devicon-django-line-wordmark:hover:after {
+  content: "django";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.icon.ion-social-html5:hover:after {
+  content: "html5";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.icon.ion-social-nodejs:hover:after {
+  content: "nodeJS";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.icon.ion-social-python:hover:after {
+  content: "Python";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fab.fa-react:hover:after {
+  content: "React";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fa.fa-star.devicon-mongodb-plain-wordmark:hover:after {
+  content: "mongoDB";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fa.fa-star.devicon-mysql-plain-wordmark:hover:after {
+  content: "MySQL";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fab.fa-java.devicon-sequelize-plain:hover:after {
+  content: "Sequelize";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fa.fa-star.devicon-postgresql-plain-wordmark:hover:after {
+  content: "PostgreSQL";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fa.fa-star.devicon-jquery-plain-wordmark:hover:after {
+  content: "jQuery";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fa.fa-star.devicon-express-original:hover:after {
+  content: "ExpressJS";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fab.fa-atlassian:hover:after {
+  content: "Atlassian Tools";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fab.fa-java.devicon-java-plain-wordmark:hover:after {
+  content: "Java";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fab.fa-java.devicon-bootstrap-plain-wordmark:hover:after {
+  content: "Bootstrap";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fab.fa-python:hover:after {
+  content: "Python";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fab.fa-node-js:hover:after {
+  content: "nodeJS";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.fab.fa-html5:hover:after {
+  content: "html5";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
+.icon.ion-social-javascript:hover:after {
+  content: "Javascript";
+  /*display: block;*/
+  /*position: relative;*/
+  top: -16px;
+  right: -16px;
+  width: 20px;
+}
+
