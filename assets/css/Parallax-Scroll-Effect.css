@@ -226,3 +226,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   width: 20px;
 }
 
+.overflow-auto {
+  overflow: auto;
+}
+
