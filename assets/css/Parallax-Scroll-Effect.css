@@ -226,7 +226,9 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   width: 20px;
 }
 
-.overflow-auto {
-  overflow: auto;
+@media (min-width: 992px) {
+  .col.flex-shrink-1.my-overflow-auto {
+    overflow: auto;
+  }
 }
 
