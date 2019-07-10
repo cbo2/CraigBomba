@@ -232,3 +232,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   }
 }
 
+#side-menu {
+  width: 170px;
+}
+
